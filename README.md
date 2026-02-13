@@ -4,7 +4,7 @@ A production-ready, full-stack bookmark management application with Google OAuth
 
 ## 🚀 Live Demo
 
-**Live URL:** [To be added after deployment]
+**Live URL:** [https://abstrabit-kd7k.vercel.app/](https://abstrabit-kd7k.vercel.app/)
 
 ## ✨ Features
 
